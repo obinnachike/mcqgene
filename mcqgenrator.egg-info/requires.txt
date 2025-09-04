@@ -3,7 +3,3 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
-langchain-openai==0.3.32
-
-
--e .
