@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main goal of machine learning?,a: To explicitly program systems | b: To learn from data and make decisions | c: To collect and preprocess data | d: To transform data into consistent format,b
+Which type of machine learning uses labeled data for training?,a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Semi-supervised Learning,a
+What is an example of a key application of machine learning in e-commerce?,a: Optimizing inventory levels | b: Predicting employee turnover | c: Recommendation engines for products | d: Identifying fraudulent transactions,c
+What is the process of cleaning and transforming data before training the algorithms called?,a: Model Training | b: Data Collection | c: Data Preprocessing | d: Model Output,c
+Why is machine learning important for industries?,a: To make decisions without data | b: To gain insights from vast amounts of data | c: To avoid using algorithms | d: To manually analyze data,b
