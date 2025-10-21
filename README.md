@@ -174,5 +174,6 @@ Shields.io
 Uvicorn
  — for ASGI serving
 
-🖋 Author: Obinna Chike
+ Author: Obinna Chike
+
 
