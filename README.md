@@ -1,9 +1,9 @@
-<h1 align="center">🧠 mcqgene</h1> <p align="center">AI-Powered Multiple-Choice Question (MCQ) Generator — Automate quiz creation with OpenAI</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python"> <img src="https://img.shields.io/badge/OpenAI-GPT-3.5-Turbo-black?logo=openai"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg"> </p>
+<h1 align="center"> mcqgene</h1> <p align="center">AI-Powered Multiple-Choice Question (MCQ) Generator — Automate quiz creation with OpenAI</p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python"> <img src="https://img.shields.io/badge/OpenAI-GPT-3.5-Turbo-black?logo=openai"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg"> </p>
 
-🎯 A smart tool that converts educational or textual content into Multiple-Choice Questions (MCQs) using OpenAI GPT-3.5 Turbo.
+ A smart tool that converts educational or textual content into Multiple-Choice Questions (MCQs) using OpenAI GPT-3.5 Turbo.
 Ideal for educators, e-learning platforms, and AI-driven quiz systems.
 
-🚀 Features
+ Features
 
 1. Automatically generates MCQs from any given text
 
@@ -19,7 +19,7 @@ Ideal for educators, e-learning platforms, and AI-driven quiz systems.
 ----
 
 
-⚙️ Setup
+ Setup
 1. Clone the repository
 git clone https://github.com/obinnachike/mcqgene.git
 cd mcqgene
@@ -175,3 +175,4 @@ Uvicorn
  — for ASGI serving
 
 🖋 Author: Obinna Chike
+
